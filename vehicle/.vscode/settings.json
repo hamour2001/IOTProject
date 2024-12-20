@@ -1,0 +1,16 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPathWin": "C:\\Users\\Karbo\\esp\\v5.3.2\\esp-idf",
+    "idf.openOcdConfigs": [
+        "interface/ftdi/esp32_devkitj_v1.cfg",
+        "target/esp32.cfg"
+    ],
+    "idf.toolsPathWin": "C:\\Users\\Karbo\\.espressif",
+    "idf.portWin": "COM6",
+    "idf.flashType": "UART",
+    "files.associations": {
+        "esp_timer.h": "c",
+        "esp_netif.h": "c",
+        "esp_http_client.h": "c"
+    }
+}
