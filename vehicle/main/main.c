@@ -9,8 +9,8 @@
 #include "stepper.h"
 #include "nvs_flash.h"
 
-#define WIFI_SSID "TOPNET_5438"
-#define WIFI_PASS "kl4vhuz7xs"
+#define WIFI_SSID "**********"
+#define WIFI_PASS "**********"
 #define INFRASTRUCTURE_IP "192.168.4.1"
 #define HTTP_ENDPOINT "/distance"
 
