@@ -12,8 +12,8 @@
 #include "lwip/ip4_addr.h"
 
 
-#define WIFI_SSID "TOPNET_5438"
-#define WIFI_PASS "kl4vhuz7xs"
+#define WIFI_SSID "**********"
+#define WIFI_PASS "**********"
 
 static const char *TAG = "INFRASTRUCTURE";
 
