@@ -10,8 +10,8 @@
 #include "esp_http_server.h"
 #include "sniffer.h"
 
-#define WIFI_SSID "TOPNET_5438"
-#define WIFI_PASS "kl4vhuz7xs"
+#define WIFI_SSID "**********"
+#define WIFI_PASS "**********"
 
 static const char *TAG = "MAIN";
 
